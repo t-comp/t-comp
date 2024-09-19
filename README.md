@@ -23,7 +23,7 @@ I am currently a Computer Science major and Data Science minor at Iowa State Uni
 | HTML                | Pandas                    | Postman^              |
 | CSS                 | Matplotlib                |                       |
 
-^ currently learning
+##### ^ currently learning
 ---
 
 ## Get in Touch
