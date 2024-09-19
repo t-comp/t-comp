@@ -6,7 +6,7 @@ I am currently a Computer Science major and Data Science minor at Iowa State Uni
 
 ## Fun Fact
 
-I love **subnetting**. It feels like solving problems for networks! 🧩
+I love subnetting. It's like solving problems for networks! 🧩
 
 ---
 
