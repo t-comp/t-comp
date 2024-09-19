@@ -14,6 +14,7 @@ I love subnetting. It's like solving problems for networks! 🧩
 
 - **📚 Learning:** Springboot Framework to further my backend skills and the SCRUM model for team development.
 - **🛠️ Building:** A group project for an app called **Duality** that focuses combining mental and physical wellness.
+- **🛠️ Building on the side:** In my free time, an Icebreaker Google Chrome extension.
 
 ---
 
