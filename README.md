@@ -10,7 +10,7 @@ I am currently a Computer Science major and Data Science minor at Iowa State Uni
 
 - **📚 Learning:** Springboot Framework to further my backend skills and the SCRUM model for team development.
 - **🛠️ Building:** A group project for an app called **Duality** that focuses combining mental and physical wellness.
-- **🛠️ Building on the side:** In my free time, an Icebreaker Google Chrome extension.
+- **💻 Building on the side:** In my free time, an Icebreaker Google Chrome extension.
 
 ---
 
