@@ -1,6 +1,6 @@
 # Hello, I’m Taylor!
 
-I am currently a **Computer Science** major and **Data Science** minor at **Iowa State University.** I to learn about new tech, work on meaningful projects, and continually grow!
+I am currently a Computer Science major and Data Science minor at Iowa State University. I to learn about new tech and work on meaningful projects!
 
 ---
 
