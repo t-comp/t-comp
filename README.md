@@ -24,8 +24,7 @@ I am a Computer Science major and Data Science minor at Iowa State University. I
 
 
 
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
 
