@@ -14,15 +14,16 @@ I am currently a Computer Science major and Data Science minor at Iowa State Uni
 
 ---
 
-## My Coding Toolkit
+## Tools
 
 | **Languages**       | **Frameworks/Libraries**  | **Other Tools**       |
 |---------------------|---------------------------|-----------------------|
-| Java                | Springboot                | Git/GitHub            |
-| Python              | Numpy                     | SCRUM Development     |
-| HTML                | Pandas                    | DS & Algoritms        |
+| Java                | Springboot*               | Git/GitHub            |
+| Python              | Numpy                     | SCRUM Development*    |
+| HTML                | Pandas                    | Postman*              |
 | CSS                 | Matplotlib                |                       |
 
+* currently learning
 ---
 
 ## Get in Touch
