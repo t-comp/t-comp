@@ -1,6 +1,6 @@
 # Hello, I’m Taylor!
 
-I am currently a Computer Science major at Iowa State University. I like CS theory, data, and learning about new tech!
+I am currently a Computer Science major at Iowa State University. I like CS theory, data, and learning about new tech.
 
 ---
 
