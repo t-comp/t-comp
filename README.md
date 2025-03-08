@@ -1,14 +1,6 @@
 # Hello, I’m Taylor!
 
-I am currently a Computer Science major and Data Science minor at Iowa State University. I love the theortical aspects of CS, learning about new tech, and work on meaningful projects!
-
----
-
-## What I’m Working On
-
-- **📚 Learning:** Springboot Framework to further my backend skills and the SCRUM model for team development.
-- **🛠️ Building:** A group project for an app called **Duality** that focuses combining mental and physical wellness.
-- **💻 Building on the side:** In my free time, an Icebreaker Google Chrome extension.
+I am currently a Computer Science major at Iowa State University. I like CS theory, data, and learning about new tech!
 
 ---
 
@@ -16,12 +8,12 @@ I am currently a Computer Science major and Data Science minor at Iowa State Uni
 
 | **Languages**       | **Frameworks/Libraries**  | **Other Tools**       |
 |---------------------|---------------------------|-----------------------|
-| Java                | Springboot^               | Git/GitHub            |
-| Python              | Numpy                     | SCRUM Development^    |
-| HTML                | Pandas                    | Postman^              |
-| CSS                 | Matplotlib                |                       |
+| Java                | Springboot                | Git/GitHub            |
+| Python              | Numpy                     | SCRUM Development     |
+| HTML                | Pandas                    | Postman               |
+| CSS                 | Matplotlib                | MySQL Workbench       |
+| SQL                 |                           |                       |
 
-##### ^ currently learning
 ---
 
 ## Get in Touch
