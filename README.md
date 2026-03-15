@@ -41,4 +41,5 @@ FastAI · JPA/Spring Data · JUnit · Mockito · JaCoCo · Selenium · AFL ·
 PostgreSQL · Oracle SQL · SQLite · Neo4j  · NuSMV · Bitbucket · CI/CD · 
 Digital Ocean · Linux/HPC (SLURM) · REST APIs · WebSockets · IntelliJ · 
 VSCode · Eclipse · Jupyter · LLVM · Fuzzing & Coverage Analysis
+
 ---
