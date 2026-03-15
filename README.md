@@ -17,7 +17,7 @@ Currently seeking post-baccalaureate research or systems engineering roles
 for 2026-2027 starting Summer 2026, before pursuing a PhD.
 
 ## Currently Working On
-- **Research** Fine tuning deep learning models for road segmentation & change detection 
+- **Research:** Fine tuning deep learning models for road segmentation & change detection 
   on USDA NRI satellite imagery (ISU CSSM Research)
 - **WingSpan:** Centralized image library for Reiman Gardens built with 
   Spring Boot, PostgreSQL, and Digital Ocean; provides API access for 
