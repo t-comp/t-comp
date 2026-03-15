@@ -18,7 +18,7 @@ for 2026-2027 starting Summer 2026, before pursuing a PhD.
 
 ## Currently Working On
 - **Research:** Fine tuning deep learning models for road segmentation & change detection 
-  on USDA NRI satellite imagery (ISU CSSM Research)
+  on USDA NRI satellite imagery (ISU CSSM)
 - **WingSpan:** Centralized image library for Reiman Gardens built with 
   Spring Boot, PostgreSQL, and Digital Ocean; provides API access for 
   multiple student applications to share butterfly/insect image assets
