@@ -36,7 +36,7 @@ Programming Techniques (C/C++) · Linear Algebra · Intro to Data Science
 
 ## Skills & Tools
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
-· Hibernate · REST Assured · Pandas · PyTorch · Scikit-learn · HuggingFace · 
+· Hibernate · REST Assured · Pandas · PyTorch · Scikit-learn · 
 FastAI · JPA/Spring Data · JUnit · Mockito · JaCoCo · Selenium · AFL · 
 PostgreSQL · Oracle SQL · SQLite · Neo4j  · NuSMV · Bitbucket · CI/CD · 
 Digital Ocean · Linux/HPC (SLURM) · REST APIs · WebSockets · IntelliJ · 
