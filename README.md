@@ -11,7 +11,7 @@ CS Senior @ Iowa State University | Researcher | Ex Intern @ LLNL
   methods, and software testing
 - **AI/ML Infrastructure & Safety:** less the models themselves, more the 
   pipelines, evaluation tooling, and verification practices that make 
-  AI-integrated systems reliable and correct
+  AI integrated systems reliable and correct
 
 Currently seeking post-baccalaureate research or systems engineering roles 
 for 2026-2027 starting Summer 2026, before pursuing a PhD.
