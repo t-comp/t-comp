@@ -1,5 +1,5 @@
 # Hello, I’m Taylor Bauer!
-CS Senior @ Iowa State University | Researcher | Former Intern @ LLNL
+CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Intern @ LLNL
 - **Email:** [tbauer1@iastate.edu](mailto:tbauer1@iastate.edu)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
