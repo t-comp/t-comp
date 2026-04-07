@@ -1,30 +1,26 @@
 # Hello, I’m Taylor Bauer!
-CS Senior @ Iowa State University | Researcher | Ex Intern @ LLNL
+CS Senior @ Iowa State University | Researcher | Former Intern @ LLNL
 - **Email:** [tbauer1@iastate.edu](mailto:tbauer1@iastate.edu)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-## My Interests!
-- **Data Systems & Infrastructure:** how data moves, evolves, and stays 
-  consistent across complex pipelines; data governance, lineage, and integrity
-- **Systems Correctness & Verification:** building developer tools that 
-  ensure data integrity and performance through program analysis, formal 
-  methods, and software testing
-- **AI/ML Infrastructure & Safety:** less the models themselves, more the 
-  pipelines, evaluation tooling, and verification practices that make 
-  AI integrated systems reliable and correct
+## My Interests
+- **Data Systems:** data pipelines, lineage, consistency, and reliability  
+- **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance  
+- **AI/ML Systems & Safety:** evaludation and reliability of ML integrated systems, including systems fully or partially generated AI
+- **Scientific Computing:** software and systems that support scientific workflows  
 
-Currently seeking post-baccalaureate research or systems engineering roles 
-for 2026-2027 starting Summer 2026, before pursuing a PhD.
+**Currently seeking:** post baccalaureate research, research software engineering, or scientific computing roles starting mid May or beginning of June 2026, prior to applying to graduate programs.
 
-## Currently Working On
-- **Research:** Fine tuning deep learning models for road segmentation & change detection 
-  on USDA NRI satellite imagery (ISU CSSM)
-- **WingSpan:** Centralized image library for Reiman Gardens built with 
-  Spring Boot, PostgreSQL, and Digital Ocean; provides API access for 
-  multiple student applications to share butterfly/insect image assets
+
+## Currently
+- **Research (ISU CSSM):** Fine tuning deep learning models (SAM + LoRA) for road segmentation & change
+  detection in USDA NRI satellite imagery 
+- **Wingppan:** A centralized image library for Reiman Gardens built with 
+  Spring Boot, PostgreSQL, and Digital Ocean which provides API access for 
+  multiple student applications to use their butterfly/insect images
 - **Program Analysis:** Static analysis, fuzzing, and coverage testing 
-  of InfraPy, a Los Alamos National Lab open source infrasonic detection tool 
-  used for nuclear detonation detection
+  of InfraPy which is an open source infrasonic detection tool created by Los
+  Alamos National Lab to detect nuclear monitoring
 - **Coursework:** Software Testing, Formal Methods of Software Engineering,
   Program Analysis, Operating Systems, Senior Design
 
