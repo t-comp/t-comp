@@ -6,7 +6,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 ## My Interests
 - **Data Systems:** data pipelines, lineage, consistency, and reliability  
 - **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance  
-- **AI/ML Systems & Safety:** evaludation and reliability of ML integrated systems, including systems fully or partially generated AI
+- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems, including systems fully or partially generated AI
 - **Scientific Computing:** software and systems that support scientific workflows  
 
 **Currently seeking:** post baccalaureate research, research software engineering, or scientific computing roles starting mid May or beginning of June 2026, prior to applying to graduate programs.
@@ -15,7 +15,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 ## Currently
 - **Research (ISU CSSM):** Fine tuning deep learning models (SAM + LoRA) for road segmentation & change
   detection in USDA NRI satellite imagery 
-- **Wingppan:** A centralized image library for Reiman Gardens built with 
+- **Wingspan:** A centralized image library for Reiman Gardens built with 
   Spring Boot, PostgreSQL, and Digital Ocean which provides API access for 
   multiple student applications to use their butterfly/insect images
 - **Program Analysis:** Static analysis, fuzzing, and coverage testing 
