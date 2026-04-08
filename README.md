@@ -12,7 +12,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 **Currently seeking:** post baccalaureate research, research software engineering, or scientific computing roles starting mid May or beginning of June 2026, prior to applying to graduate programs.
 
 
-## Currently
+## Recent Work
 - **Research (ISU CSSM):** Fine tuning deep learning models (SAM + LoRA) for road segmentation & change
   detection in USDA NRI satellite imagery 
 - **Wingspan:** A centralized image library for Reiman Gardens built with 
@@ -23,6 +23,12 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
   Alamos National Lab to detect nuclear monitoring
 - **Coursework:** Software Testing, Formal Methods of Software Engineering,
   Program Analysis, Operating Systems, Senior Design
+
+### [Shot Data Systems - National Ignition Facility]
+**Computing Scholar Internship (Summer 2025)**
+- Migrated and refactored blocker/shadow calculation logic from a legacy application
+- Streamlined data processing workflows to reduce communication between applications used at the NIF
+- Honorable Mention, Computing Scholar Poster Symposium, 2025 [View Project Poster](link)
 
 ## Relevant Coursework
 Theory of Computing · Programming Languages · Database Management Systems · 
