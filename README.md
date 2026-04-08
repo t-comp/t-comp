@@ -36,6 +36,7 @@ Honorable Mention, Computing Scholar Poster Symposium, 2025 | [Poster Here](./Tr
 **Duality - Mental & Physical Health App** | *Software Development Practices Course Project (Fall 2024)*
 * Backend development (Spring Boot, REST API, WebSockets) and relational database design for an Android app
 Recognized as a "Best Coder" across two course sections
+* [Repo Here](https://github.com/t-comp/Duality)
 
 ## Skills & Tools
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
