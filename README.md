@@ -9,7 +9,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 - **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems, including systems fully or partially generated AI
 - **Scientific Computing:** software and systems that support scientific workflows  
 
-**Currently seeking:** post baccalaureate research, research software engineering, or scientific computing roles starting mid May or beginning of June 2026, prior to applying to graduate programs.
+**Currently seeking:** post baccalaureate research, research software engineering, scientific computing, or backend software engineering roles starting mid May or beginning of June 2026
 
 
 ## Currently Working On
