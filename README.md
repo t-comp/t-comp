@@ -1,4 +1,4 @@
-# Hello, I’m Taylor Bauer!
+# Hi, I’m Taylor!
 CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Intern @ LLNL
 - **Email:** [tbauer1@iastate.edu](mailto:tbauer1@iastate.edu)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
@@ -9,34 +9,31 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 - **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems, including systems fully or partially generated AI
 - **Scientific Computing:** software and systems that support scientific workflows  
 
-**Currently seeking:** post baccalaureate research, research software engineering, scientific computing, or backend software engineering roles starting mid May or beginning of June 2026
 
+## Recent Work
 
-## Currently Working On
-
-**Road Segmentation Research - ISU Center for Survey Statistics & Methodologies**  
+**Road Segmentation Research | ISU Center for Survey Statistics & Methodologies**  
 * Fine tuning deep learning models (SAM + LoRA) for road segmentation and change detection in USDA NRI satellite imagery
 
-**Wingspan Image Library - Reiman Gardens**  
-* Centralized image management system built with Spring Boot and PostgreSQL that provides API access to images of butterflys/insects for other students to put in their senior design applications
+**[Wingspan](wingspan) | Senior Capstone Project**
+* image management system for Reiman Gardens to give API access to images of butterflys/insects for other senior design student teams to put in their applications
 
-**Program Analysis Coursework Project**  
-* Static analysis, fuzzing, and coverage testing of InfraPy which is an open source tool created by Los Alamos National Lab used for nuclear monitoring
+**[Infrapy Program Analysis Project](Infrapy-Program-Analysis) | Program Analysis Coursework**
+* static analysis, fuzzing, & coverage testing of a Python program to create a UI query system
 
-**Coursework:** Software Testing · Formal Methods of Software Engineering · Program Analysis · Operating Systems · Senior Design
 
 ## Previous Work
 **Shot Data Systems - National Ignition Facility** | *Computing Scholar Internship (Summer 2025)*
 * Migrated and refactored blocker/shadow calculation logic from a legacy application and streamlined data processing workflows to reduce communication between applications used at the NIF
-Honorable Mention, Computing Scholar Poster Symposium, 2025 | [Poster Here](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
+Honorable Mention, Computing Scholar Poster Symposium, 2025
+* [Poster Here](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
 
 **Data Storage Lab - Iowa State University** | *Undergraduate Researcher (Spring 2025)*
 * Fine-tuned GPT-3 to create a domain specific model for optimizing database configuration dependencies
 
-**Duality - Mental & Physical Health App** | *Software Development Practices Course Project (Fall 2024)*
+[**Duality - Mental & Physical Health App**](https://github.com/t-comp/Duality) | *Software Development Practices Course Project (Fall 2024)*
 * Backend development (Spring Boot, REST API, WebSockets) and relational database design for an Android app
 Recognized as a "Best Coder" across two course sections
-* [Repo Here](https://github.com/t-comp/Duality)
 
 ## Skills & Tools
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
@@ -47,10 +44,12 @@ Digital Ocean · Linux/HPC (SLURM) · REST APIs · WebSockets · IntelliJ ·
 VSCode · Eclipse · Jupyter · LLVM · Fuzzing & Coverage Analysis
 
 ## Relevant Coursework
-Theory of Computing · Programming Languages · Database Management Systems · 
-Software Development Practices · Computer Architecture · Algorithm Analysis & 
-Design · Data Structures & Algorithms · Probability & Statistics for CS · Advanced 
-Programming Techniques (C/C++) · Linear Algebra · Intro to Data Science
+Software Testing · Formal Methods of Software Engineering · Program Analysis · 
+Operating Systems · Senior DesignTheory of Computing · Programming Languages · 
+Database Management Systems · Software Development Practices · Computer 
+Architecture · Algorithm Analysis & Design · Data Structures & Algorithms · 
+Probability & Statistics for CS · Advanced Programming Techniques (C/C++) · 
+Linear Algebra · Intro to Data Science
 
 
 ---
