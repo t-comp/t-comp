@@ -6,7 +6,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 ## My Interests
 - **Data Systems:** data pipelines, lineage, consistency, and reliability  
 - **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance  
-- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems, including systems fully or partially generated AI
+- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems
 - **Scientific Computing:** software and systems that support scientific workflows  
 
 
@@ -15,10 +15,11 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 **Road Segmentation Research | ISU Center for Survey Statistics & Methodologies**  
 * Fine tuning deep learning models (SAM + LoRA) for road segmentation and change detection in USDA NRI satellite imagery
 
-**[Wingspan](wingspan) | Senior Capstone Project**
-* image management system for Reiman Gardens to give API access to images of butterflys/insects for other senior design student teams to put in their applications
+[**Wingspan - Image Management System**](wingspan) | *Senior Capstone Project (Spring 2026)*
+* Primarily backend development (Spring Boot, REST API, PostgreSQL) & server management (Digital Ocean Droplet)
+* Some frontend development (Typescript, HTML, CSS, Vite)
 
-**[Infrapy Program Analysis Project](Infrapy-Program-Analysis) | Program Analysis Coursework**
+[**Infrapy Analysis & Query System**](Infrapy-Program-Analysis) | *Program Analysis Coursework (Spring 2026)*
 * static analysis, fuzzing, & coverage testing of a Python program to create a UI query system
 
 
@@ -33,7 +34,7 @@ Honorable Mention, Computing Scholar Poster Symposium, 2025
 
 [**Duality - Mental & Physical Health App**](https://github.com/t-comp/Duality) | *Software Development Practices Course Project (Fall 2024)*
 * Backend development (Spring Boot, REST API, WebSockets) and relational database design for an Android app
-Recognized as a "Best Coder" across two course sections
+* Recognized as a "Best Coder" across two course sections
 
 ## Skills & Tools
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
@@ -50,6 +51,5 @@ Database Management Systems · Software Development Practices · Computer
 Architecture · Algorithm Analysis & Design · Data Structures & Algorithms · 
 Probability & Statistics for CS · Advanced Programming Techniques (C/C++) · 
 Linear Algebra · Intro to Data Science
-
 
 ---
