@@ -13,7 +13,7 @@ CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Int
 ## Recent Work
 
 **Road Segmentation Research | ISU Center for Survey Statistics & Methodologies**  
-* Fine tuning deep learning models (SAM + LoRA) for road segmentation and change detection in USDA NRI satellite imagery
+* Fine tuning deep learning models (SAM + LoRA) for road segmentation and change detection in satellite imagery
 
 [**Wingspan - Image Management System**](https://github.com/t-comp/wingspan) | *Senior Capstone Project (Spring 2026)*
 * Primarily backend development (Spring Boot, REST API, PostgreSQL) & server management (Digital Ocean Droplet)
