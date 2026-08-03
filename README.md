@@ -1,19 +1,25 @@
 # Hi, I’m Taylor!
-CS Senior @ Iowa State University | Undergrad Researcher @ ISU CSSM | Former Intern @ LLNL
-- **Email:** [tbauer1@iastate.edu](mailto:tbauer1@iastate.edu)
+Recent CS Graduate from Iowa State University | Researcher @ ISU CSSM | Former Intern @ LLNL
+- **Email:** [taybauer25@outlook.com](mailto:taybauer25@outlook.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## My Interests
-- **Data Systems:** data pipelines, lineage, consistency, and reliability  
-- **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance  
-- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems
+- **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance
+- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems and AI generated code, the intersection of AI and Software Engineering
 - **Scientific Computing:** software and systems that support scientific workflows  
+- **Data Systems:** data pipelines, lineage, consistency, and reliability
 
+## My Interests
+- **Software Testing & Program Analysis:** testing frameworks, static and dynamic analysis, fuzzing, coverage, and correctness of real-world systems
+- **AI/ML Systems & Safety:** evaluation, reliability, and correctness of ML-integrated systems and AI-generated code
+- **Developer Tooling & Experience:** tools and systems that make engineers and researchers more productive without sacrificing correctness
+- **Data Systems & Pipelines:** data lineage, consistency, and reliability across pipelines
+- **Scientific Computing & Research Infrastructure:** software and tooling that support scientific workflows and HPC environments
 
 ## Recent Work
 
 **Change Detection Research | ISU Center for Survey Statistics & Methodology**  
-* Researching and experimenting with approaches for change detection in satellite imagery, including SAM + LoRA and weakly supervised contrastive learning with MIL pooling
+* Researching and experimenting with approaches for change detection in satellite imagery, including SAM + LoRA and weakly supervised contrastive learning
 
 [**Wingspan - Image Management System**](https://github.com/t-comp/wingspan) | *Senior Capstone Project (Spring 2026)*
 * Primarily backend development (Spring Boot, REST API, PostgreSQL) & server management (Digital Ocean Droplet)
