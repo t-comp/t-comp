@@ -9,13 +9,6 @@ Recent CS Graduate from Iowa State University | Researcher @ ISU CSSM | Former I
 - **Scientific Computing:** software and systems that support scientific workflows  
 - **Data Systems:** data pipelines, lineage, consistency, and reliability
 
-## My Interests
-- **Software Testing & Program Analysis:** testing frameworks, static and dynamic analysis, fuzzing, coverage, and correctness of real-world systems
-- **AI/ML Systems & Safety:** evaluation, reliability, and correctness of ML-integrated systems and AI-generated code
-- **Developer Tooling & Experience:** tools and systems that make engineers and researchers more productive without sacrificing correctness
-- **Data Systems & Pipelines:** data lineage, consistency, and reliability across pipelines
-- **Scientific Computing & Research Infrastructure:** software and tooling that support scientific workflows and HPC environments
-
 ## Recent Work
 
 **Change Detection Research | ISU Center for Survey Statistics & Methodology**  
