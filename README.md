@@ -40,4 +40,5 @@ Database Management Systems · Software Development Practices · Computer
 Architecture · Algorithm Analysis & Design · Data Structures & Algorithms · 
 Probability & Statistics for CS · Advanced Programming Techniques (C/C++) · 
 Linear Algebra · Intro to Data Science
+
 ---
