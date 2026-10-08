@@ -1,11 +1,6 @@
-# Hi, I’m Taylor!
-Recent CS Graduate from Iowa State University 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-## My Interests
-- **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance
-- **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems and AI generated code, the intersection of AI and Software Engineering
-- **Scientific Computing:** software and systems that support scientific workflows  
+# Taylor Bauer
+I am a recent CS graduate from Iowa State University currently working at the Center for Survey Statistics & Methodology. My research interests are in software testing, program analysis, formal methods, and HCI. I care about the correctness, reliability, and safety of AI/ML systems and vibecoded software, and in building tools and frameworks that help 
+developers and end users continue to create using AI without compromising correctness or safety. I am also interested in AI ethics and policy, and systems that support scientific workflows.
 
 ## Recent Work
 
@@ -43,10 +38,9 @@ VSCode · Eclipse · Jupyter · LLVM · Fuzzing & Coverage Analysis
 
 ## Relevant Coursework
 Software Testing · Formal Methods of Software Engineering · Program Analysis · 
-Operating Systems · Senior DesignTheory of Computing · Programming Languages · 
+Operating Systems · Senior Design · Theory of Computing · Programming Languages · 
 Database Management Systems · Software Development Practices · Computer 
 Architecture · Algorithm Analysis & Design · Data Structures & Algorithms · 
 Probability & Statistics for CS · Advanced Programming Techniques (C/C++) · 
 Linear Algebra · Intro to Data Science
-
 ---
