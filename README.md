@@ -1,13 +1,11 @@
 # Hi, I’m Taylor!
-Recent CS Graduate from Iowa State University | Researcher @ ISU CSSM | Former Intern @ LLNL
-- **Email:** [taybauer25@outlook.com](mailto:taybauer25@outlook.com)
+Recent CS Graduate from Iowa State University 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/taylor-b-9191182ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## My Interests
 - **Systems Correctness & Reliability:** program analysis, testing, and developer tools for ensuring correctness, data integrity, and performance
 - **AI/ML Systems & Safety:** evaluation and reliability of ML integrated systems and AI generated code, the intersection of AI and Software Engineering
 - **Scientific Computing:** software and systems that support scientific workflows  
-- **Data Systems:** data pipelines, lineage, consistency, and reliability
 
 ## Recent Work
 
@@ -29,13 +27,13 @@ Honorable Mention, Computing Scholar Poster Symposium, 2025
 * [Poster Here](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
 
 **Data Storage Lab - Iowa State University** | *Undergraduate Researcher (Spring 2025)*
-* Fine-tuned GPT-3 to create a domain specific model for optimizing database configuration dependencies
+* Fine tuned GPT-3 to create a domain specific model for optimizing database configuration dependencies
 
 [**Duality - Mental & Physical Health App**](https://github.com/t-comp/Duality) | *Software Development Practices Course Project (Fall 2024)*
 * Backend development (Spring Boot, REST API, WebSockets) and relational database design for an Android app
 * Recognized as a "Best Coder" across two course sections
 
-## Skills & Tools
+## Skills & Tools (used >= 1 time)
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
 · Hibernate · REST Assured · Pandas · PyTorch · Scikit-learn · 
 FastAI · JPA/Spring Data · JUnit · Mockito · JaCoCo · Selenium · AFL · 
