@@ -14,7 +14,7 @@ developers and end users continue to create using AI without compromising correc
 ## Previous Work
 **Shot Data Systems - National Ignition Facility** | *Computing Scholar Internship (Summer 2025)*
 * Migrated and refactored blocker/shadow calculation logic from a legacy application and streamlined data processing workflows to reduce communication between applications used at the NIF
-Honorable Mention, Computing Scholar Poster Symposium, 2025
+* Honorable Mention, Computing Scholar Poster Symposium, 2025
 * [Poster Here](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
 
 **Data Storage Lab - Iowa State University** | *Undergraduate Researcher (Spring 2025)*
