@@ -4,16 +4,12 @@ developers and end users continue to create using AI without compromising correc
 
 ## Recent Work
 
-**Change Detection Research | ISU Center for Survey Statistics & Methodology**  
-* Researching and experimenting with approaches for change detection in satellite imagery, including SAM + LoRA and weakly supervised contrastive learning
-
 [**Wingspan - Image Management System**](https://github.com/t-comp/wingspan) | *Senior Capstone Project (Spring 2026)*
 * Primarily backend development (Spring Boot, REST API, PostgreSQL) & server management (Digital Ocean Droplet)
 * Some frontend development (Typescript, HTML, CSS, Vite)
 
 [**Infrapy Analysis & Query System**](https://github.com/t-comp/Infrapy-Program-Analysis) | *Program Analysis Coursework (Spring 2026)*
-* static analysis, fuzzing, & coverage testing of a Python program to create a UI query system
-
+* Static analysis, fuzzing, & coverage testing of a Python program to create a UI query system
 
 ## Previous Work
 **Shot Data Systems - National Ignition Facility** | *Computing Scholar Internship (Summer 2025)*
