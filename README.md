@@ -4,23 +4,23 @@ Recent CS grad from Iowa State University.
 ## Experience
 
 **Temporary P & S Employee, previously undergraduate researcher**, Center for Survey Statistics & Methodology, ISU *(2025 - present)*
-* Researching deep learning approaches for change detection, among some other tasks.
+* Researching deep learning approaches for change detection, among some other tasks
 
 **Computing Scholar Intern**, Lawrence Livermore National Laboratory *(Summer 2025)*
 * Modernized backend Java/Spring Boot systems at the National Ignition Facility. [Honorable Mention, Computing Scholar Poster Symposium 2025](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
 
 **Undergraduate Researcher**, Data Storage Lab, ISU *(Spring 2025)*
-* Fine tuning an LLM on Git commit history to build a domain specific coding assistant for database configuration dependencies.
+* Fine tuning an LLM on Git commit history to build a domain specific coding assistant for database configuration dependencies
 
 ## Some Projects
 [**Wingspan**](https://github.com/t-comp/wingspan), Senior Capstone *(Spring 2026)*
-* Spring Boot REST API for image management at Reiman Gardens, PostgreSQL, dual auth, DigitalOcean deployment.
+* Spring Boot REST API for image management at Reiman Gardens
 
 [**InfraPy Analysis**](https://github.com/t-comp/Infrapy-Program-Analysis), Program Analysis Coursework *(Spring 2026)*
 * Static analysis, fuzzing, & coverage testing of a Python program to create a UI query system
 
 [**Duality**](https://github.com/t-comp/Duality), Software Development Practices *(Fall 2024)*
-* Android health app backend in Spring Boot.
+* Spring Boot Android health app
 
 ## Skills & Tools 
 Java · Python · SQL · C/C++ · OCaml · Bash · HTML · CSS · Spring Boot · Git
