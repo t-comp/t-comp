@@ -1,11 +1,10 @@
 # Taylor Bauer
-I am a recent CS graduate from Iowa State University currently working at the Center for Survey Statistics & Methodology. My research interests are in software testing, program analysis, formal methods, and HCI. I care about the correctness, reliability, and safety of AI/ML systems and vibecoded software, and in building tools and frameworks that help 
-developers and end users continue to create using AI without compromising correctness or safety. I am also interested in AI ethics and policy, and systems that support scientific workflows.
+Recent CS grad from Iowa State University. 
 
 ## Experience
 
 **Temporary P & S Employee, previously undergraduate researcher**, Center for Survey Statistics & Methodology, ISU *(2025 - present)*
-* Researching deep learning approaches for change detection.
+* Researching deep learning approaches for change detection, among some other tasks.
 
 **Computing Scholar Intern**, Lawrence Livermore National Laboratory *(Summer 2025)*
 * Modernized backend Java/Spring Boot systems at the National Ignition Facility. [Honorable Mention, Computing Scholar Poster Symposium 2025](./Transitioning_Blocker_Calculations_Poster_Bauer_Taylor.pdf)
